@@ -4,7 +4,7 @@
 
 This project investigates how historical success and market appeal have influenced the valuation of the Los Angeles Lakers, one of the most iconic NBA franchises. Using regression analysis and econometric models, the study evaluates key factors such as winning percentage, fan cost index (FCI), and superstar influence to uncover the drivers behind team valuations in professional sports.
 
-<img src="lakers.png" alt="Lakers" width="600" height="400">
+<img src="images/lakers.png" alt="Lakers" width="600" height="400">
 
 
 ### 1. The Legacy and Valuation of the Los Angeles Lakers
@@ -14,7 +14,7 @@ The Lakers' consistent success and "Hollywood" appeal contribute to their substa
 
 2018 marked a pivotal moment for the Lakers as they signed 4-time MVP winner LeBron James to a 4-Year $154 Million Deal in a bid to end one of the most unsuccessful periods in their history (Stein and Cacciola). Since the 4-time champion’s arrival, the Lakers have reported intense ticket demand. James Peltz of the L.A. Times reported that “The lowest price of a Lakers season ticket for Staples Center [now Crypto.com Arena] games jumped to $5,750 from $3,499 on StubHub.com, while the high end reached nearly $100,000”. James’ influence also extends to merchandise sales; Jack Boyle, co-president of the direct-to-consumer business at Fanatics, disclosed that LeBron’s Lakers jersey set a new single-day record in dollar sales for an NBA player joining a new team as a free agent or by a trade (Peltz). Even though COVID-19 caused operating income and revenue to stagnate between 2020-2021, the Lakers’ valuation has always remained on an upwards trajectory, as seen in Figure 1 below. A report published by Forbes recorded a positive 11% value change between 2023 and 2024, as substantiated by revenues totalling $552 million and an operating income of $199 million (Teitelbaum and Knight). It’s no surprise to see the Lakers being ranked among the highest-valued NBA franchises, thanks to its robust combination of revenue sources. But with the game’s biggest star on board, the Lakers have taken their marketability to another level, creating a financial profile that is profitable and positioned for sustained growth. Having re-signed once in 2022 and again in 2024, only time will tell what more James and the Lakers can achieve. 
 
-<img src="Rplot-1.png" alt="Lakers" width="600" height="500">
+<img src="images/Rplot-1.png" alt="Lakers" width="600" height="500">
 
 Figure 1. The Los Angeles Lakers’ market value from 2016 to 2021
 
